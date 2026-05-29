@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authsync",
+        "uuid": 495012,
+        "checksum": "thsbc"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
